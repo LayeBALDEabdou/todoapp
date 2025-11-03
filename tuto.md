@@ -8,7 +8,7 @@
 - Valider les données utilisateur
 
 ## Durée estimée
-3-4 heures
+3-4 heure
 
 ---
 
